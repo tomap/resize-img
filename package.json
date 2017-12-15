@@ -33,7 +33,7 @@
     "file-type": "^3.8.0",
     "get-stream": "^2.0.0",
     "jimp": "^0.2.21",
-    "jpeg-js": "^0.1.1",
+    "jpeg-js": "^0.3.3",
     "parse-png": "^1.1.1"
   },
   "devDependencies": {
